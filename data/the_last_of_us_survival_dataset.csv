@@ -1,0 +1,251 @@
+Edad,Genero,Faccion,ExperienciaCombate,HabilidadSigilo,Salud,ArmaFuego,ArmaCuerpoCuerpo,ItemCreable,NivelInfeccionZona,CondicionesClimaticas,NivelEstrés,TieneCompañero,Superviviente
+58,Masculino,Militar,9,3,74,Bow,Lead Pipe,Health Kit,4,Seco,5,0,1
+16,Femenino,Civil,9,2,82,El Diablo,Ninguna,Molotov Cocktail,10,Lluvioso,8,0,0
+33,Femenino,Civil,4,5,66,Shorty,Ninguna,Health Kit,4,Lluvioso,10,0,0
+33,Femenino,Civil,3,6,98,Shotgun,Lead Pipe,Health Kit,8,Seco,1,1,0
+57,Masculino,Militar,2,5,52,Revolver,Hatchet,Shiv,10,Seco,0,0,0
+31,Femenino,Firefly,7,2,59,Bow,Hatchet,Smoke Bomb,2,Húmedo,2,0,1
+37,Femenino,Militar,5,8,61,Shorty,2x4,Shiv,1,Lluvioso,10,0,1
+39,Femenino,Cazador,7,2,62,Flamethrower,Switchblade,Nail Bomb,3,Seco,7,1,0
+22,Femenino,Militar,5,2,84,Hunting Rifle,Hatchet,Shiv,5,Seco,10,0,0
+19,Masculino,Firefly,6,7,89,El Diablo,Ninguna,Health Kit,1,Seco,1,0,1
+15,Femenino,Firefly,6,3,81,Bow,Machete,Ninguno,6,Seco,7,0,0
+34,Femenino,Firefly,5,8,51,Shorty,Switchblade,Smoke Bomb,8,Húmedo,8,0,0
+55,Masculino,Militar,4,10,72,El Diablo,Hatchet,Nail Bomb,8,Lluvioso,5,0,0
+37,Masculino,Civil,3,7,44,Shotgun,Hatchet,Health Kit,1,Lluvioso,10,0,0
+42,Masculino,Firefly,5,9,88,Shotgun,Ninguna,Health Kit,0,Húmedo,4,1,1
+52,Femenino,Cazador,2,4,37,Shorty,Ninguna,Ninguno,7,Húmedo,1,0,0
+20,Femenino,Cazador,5,8,65,Shorty,Switchblade,Shiv,7,Húmedo,4,0,0
+39,Masculino,Civil,3,6,91,Bow,Lead Pipe,Ninguno,1,Seco,8,0,1
+46,Femenino,Civil,2,10,36,Revolver,Hatchet,Shiv,1,Seco,6,0,0
+38,Masculino,Civil,6,7,95,Ninguna,Hatchet,Nail Bomb,8,Lluvioso,4,1,0
+25,Masculino,Firefly,5,9,50,Revolver,Switchblade,Smoke Bomb,0,Lluvioso,3,1,1
+45,Femenino,Cazador,4,5,96,Bow,Machete,Smoke Bomb,0,Lluvioso,8,1,1
+57,Masculino,Militar,6,6,89,Bow,Ninguna,Nail Bomb,4,Húmedo,8,0,0
+20,Femenino,Militar,8,2,78,Hunting Rifle,Baseball Bat,Shiv,9,Húmedo,9,1,0
+59,Masculino,Firefly,6,8,86,Flamethrower,Switchblade,Ninguno,1,Lluvioso,5,1,1
+29,Femenino,Cazador,1,2,66,Hunting Rifle,Hatchet,Nail Bomb,8,Seco,6,0,0
+54,Femenino,Civil,6,9,33,Hunting Rifle,Switchblade,Nail Bomb,2,Seco,3,0,1
+22,Masculino,Civil,9,2,93,El Diablo,Switchblade,Ninguno,3,Lluvioso,1,0,1
+32,Femenino,Militar,9,5,35,Bow,Machete,Nail Bomb,5,Húmedo,9,0,0
+16,Masculino,Firefly,1,4,93,Bow,Hatchet,Smoke Bomb,9,Húmedo,5,1,0
+52,Masculino,Militar,10,8,93,Shorty,2x4,Ninguno,1,Húmedo,10,0,1
+41,Femenino,Militar,10,6,47,Bow,Machete,Smoke Bomb,5,Húmedo,7,0,0
+40,Masculino,Firefly,3,4,67,Shotgun,Hatchet,Smoke Bomb,9,Húmedo,6,0,0
+50,Femenino,Civil,5,6,83,Ninguna,Lead Pipe,Health Kit,4,Húmedo,2,1,1
+32,Masculino,Civil,2,2,78,Flamethrower,Ninguna,Health Kit,1,Seco,2,1,1
+50,Masculino,Firefly,9,8,99,Shotgun,Ninguna,Molotov Cocktail,3,Húmedo,8,1,1
+26,Femenino,Civil,2,7,41,9mm Pistol,Switchblade,Nail Bomb,7,Húmedo,6,1,0
+47,Femenino,Firefly,5,3,46,Shorty,Switchblade,Shiv,6,Seco,5,0,0
+44,Femenino,Civil,1,5,37,Hunting Rifle,Hatchet,Ninguno,5,Lluvioso,6,0,0
+36,Masculino,Civil,7,5,47,El Diablo,2x4,Shiv,0,Lluvioso,1,1,1
+24,Masculino,Cazador,6,4,96,9mm Pistol,Lead Pipe,Nail Bomb,7,Húmedo,1,0,0
+34,Femenino,Firefly,8,1,36,9mm Pistol,Machete,Nail Bomb,6,Húmedo,10,0,0
+38,Masculino,Cazador,9,8,74,Revolver,Lead Pipe,Smoke Bomb,10,Húmedo,8,0,0
+17,Femenino,Cazador,2,8,53,Shotgun,Ninguna,Smoke Bomb,6,Lluvioso,5,1,0
+58,Masculino,Cazador,9,4,78,9mm Pistol,Lead Pipe,Smoke Bomb,3,Lluvioso,1,1,1
+24,Masculino,Civil,4,7,48,El Diablo,Hatchet,Nail Bomb,10,Lluvioso,9,0,0
+19,Masculino,Civil,1,5,91,Flamethrower,Switchblade,Ninguno,7,Seco,6,1,0
+59,Femenino,Firefly,1,4,56,Shotgun,Machete,Shiv,0,Húmedo,1,1,1
+49,Masculino,Civil,3,2,33,Hunting Rifle,Hatchet,Ninguno,0,Húmedo,5,0,0
+17,Femenino,Cazador,8,1,38,Hunting Rifle,Hatchet,Health Kit,4,Lluvioso,1,1,0
+29,Femenino,Firefly,2,3,61,Flamethrower,Switchblade,Shiv,9,Lluvioso,7,0,0
+51,Femenino,Militar,1,4,35,Flamethrower,2x4,Nail Bomb,9,Seco,5,1,0
+35,Masculino,Civil,4,1,71,Revolver,Hatchet,Smoke Bomb,2,Húmedo,1,1,1
+50,Femenino,Civil,2,3,47,Shotgun,Switchblade,Nail Bomb,0,Húmedo,2,1,1
+20,Masculino,Firefly,3,8,76,9mm Pistol,2x4,Nail Bomb,9,Seco,1,1,0
+39,Masculino,Cazador,1,9,33,Ninguna,Ninguna,Shiv,5,Seco,10,1,0
+30,Femenino,Firefly,7,8,44,Shorty,Ninguna,Nail Bomb,3,Húmedo,10,1,0
+21,Masculino,Militar,5,10,100,9mm Pistol,Machete,Nail Bomb,8,Lluvioso,1,1,1
+47,Masculino,Militar,5,5,47,Shotgun,Ninguna,Smoke Bomb,1,Lluvioso,4,1,1
+32,Femenino,Cazador,2,10,32,Shotgun,2x4,Health Kit,2,Lluvioso,8,1,1
+37,Masculino,Cazador,5,9,63,Revolver,2x4,Smoke Bomb,7,Lluvioso,3,1,0
+41,Masculino,Cazador,7,7,73,El Diablo,Switchblade,Shiv,7,Húmedo,9,1,0
+34,Femenino,Militar,9,10,54,Ninguna,Ninguna,Molotov Cocktail,4,Lluvioso,1,0,1
+24,Femenino,Civil,3,2,97,Ninguna,Ninguna,Molotov Cocktail,0,Seco,1,0,0
+35,Masculino,Civil,3,7,95,Bow,Hatchet,Smoke Bomb,6,Seco,3,0,0
+43,Femenino,Civil,1,7,67,El Diablo,Ninguna,Nail Bomb,3,Lluvioso,3,0,0
+27,Femenino,Militar,10,4,71,Shotgun,Ninguna,Molotov Cocktail,0,Húmedo,0,1,1
+45,Femenino,Civil,5,6,76,Flamethrower,Hatchet,Nail Bomb,4,Lluvioso,10,0,0
+30,Femenino,Civil,5,2,59,Shorty,Lead Pipe,Ninguno,4,Seco,0,0,0
+21,Masculino,Cazador,6,8,93,Hunting Rifle,2x4,Nail Bomb,1,Húmedo,7,0,1
+53,Femenino,Civil,1,1,52,Hunting Rifle,Baseball Bat,Shiv,3,Húmedo,0,0,0
+41,Femenino,Civil,9,5,35,Shotgun,Machete,Ninguno,7,Húmedo,2,1,0
+43,Masculino,Militar,8,5,98,Ninguna,2x4,Molotov Cocktail,6,Seco,7,0,0
+32,Masculino,Cazador,9,5,45,El Diablo,Machete,Nail Bomb,2,Lluvioso,9,0,1
+28,Femenino,Firefly,1,4,92,Flamethrower,Baseball Bat,Shiv,0,Húmedo,10,1,1
+42,Masculino,Civil,1,9,100,Shotgun,Ninguna,Health Kit,9,Lluvioso,3,1,0
+34,Masculino,Firefly,6,5,52,9mm Pistol,2x4,Shiv,7,Húmedo,5,1,0
+18,Femenino,Civil,3,9,34,El Diablo,Lead Pipe,Ninguno,7,Seco,9,0,0
+25,Masculino,Civil,3,10,76,Flamethrower,2x4,Molotov Cocktail,1,Húmedo,9,1,1
+29,Masculino,Firefly,4,3,90,Bow,2x4,Nail Bomb,1,Lluvioso,8,1,1
+21,Masculino,Militar,4,9,38,Bow,Baseball Bat,Ninguno,6,Lluvioso,9,0,0
+22,Femenino,Cazador,6,1,30,Flamethrower,Machete,Smoke Bomb,10,Lluvioso,0,0,0
+17,Femenino,Firefly,2,10,50,9mm Pistol,2x4,Shiv,0,Lluvioso,7,0,1
+28,Femenino,Civil,8,2,62,Shorty,Baseball Bat,Ninguno,3,Seco,6,0,0
+36,Femenino,Civil,5,3,96,Ninguna,Machete,Smoke Bomb,5,Lluvioso,7,1,0
+26,Femenino,Civil,3,7,87,Shorty,Ninguna,Health Kit,7,Lluvioso,9,1,0
+33,Femenino,Civil,7,8,59,Revolver,Lead Pipe,Molotov Cocktail,2,Seco,5,1,1
+47,Femenino,Civil,3,2,65,El Diablo,Hatchet,Nail Bomb,1,Seco,7,1,1
+37,Masculino,Civil,5,2,55,Shorty,2x4,Ninguno,4,Húmedo,4,1,0
+57,Masculino,Cazador,1,6,77,Shorty,2x4,Molotov Cocktail,4,Húmedo,0,1,1
+22,Femenino,Firefly,3,7,82,Shorty,Machete,Nail Bomb,7,Lluvioso,0,0,0
+32,Masculino,Militar,10,5,51,Bow,Lead Pipe,Nail Bomb,10,Seco,6,1,0
+31,Masculino,Militar,7,10,58,Shotgun,2x4,Smoke Bomb,9,Lluvioso,4,1,0
+15,Masculino,Militar,2,7,56,Bow,Switchblade,Molotov Cocktail,2,Seco,8,1,1
+57,Masculino,Cazador,10,1,52,Revolver,Machete,Smoke Bomb,2,Seco,8,1,1
+59,Masculino,Cazador,5,10,38,Shotgun,Switchblade,Smoke Bomb,0,Húmedo,7,0,1
+25,Masculino,Firefly,4,6,92,Flamethrower,Switchblade,Nail Bomb,4,Húmedo,2,0,1
+27,Masculino,Civil,8,2,95,Bow,2x4,Shiv,5,Húmedo,3,0,1
+42,Femenino,Civil,5,2,41,Hunting Rifle,Machete,Shiv,6,Lluvioso,8,0,0
+49,Masculino,Cazador,8,7,70,Shorty,Machete,Nail Bomb,8,Seco,4,0,0
+57,Femenino,Civil,9,4,97,9mm Pistol,Hatchet,Health Kit,2,Húmedo,6,0,1
+53,Femenino,Firefly,8,3,67,9mm Pistol,Hatchet,Smoke Bomb,0,Lluvioso,2,0,1
+57,Femenino,Militar,10,2,84,Hunting Rifle,Ninguna,Nail Bomb,8,Húmedo,4,1,0
+31,Femenino,Firefly,1,7,75,Bow,Switchblade,Ninguno,0,Lluvioso,5,1,1
+57,Femenino,Militar,10,5,44,9mm Pistol,Switchblade,Ninguno,5,Húmedo,2,1,1
+38,Femenino,Firefly,3,10,96,Flamethrower,Baseball Bat,Health Kit,10,Seco,9,0,0
+31,Femenino,Firefly,2,4,56,Shorty,2x4,Ninguno,2,Lluvioso,4,1,1
+46,Femenino,Firefly,1,1,77,Shorty,Ninguna,Nail Bomb,10,Lluvioso,1,1,0
+27,Masculino,Militar,1,9,33,El Diablo,Switchblade,Health Kit,2,Lluvioso,9,0,0
+18,Femenino,Civil,3,2,81,Shorty,2x4,Nail Bomb,4,Seco,8,0,0
+40,Femenino,Civil,6,10,70,9mm Pistol,Machete,Smoke Bomb,9,Seco,3,0,0
+30,Masculino,Firefly,6,3,39,Bow,Machete,Smoke Bomb,10,Lluvioso,5,0,0
+30,Masculino,Firefly,7,9,71,Shotgun,Hatchet,Smoke Bomb,3,Lluvioso,4,0,1
+57,Masculino,Militar,4,2,68,Bow,2x4,Molotov Cocktail,8,Lluvioso,4,1,0
+25,Femenino,Civil,5,7,67,Shorty,Baseball Bat,Smoke Bomb,10,Seco,5,0,0
+16,Femenino,Firefly,3,9,95,Shorty,Switchblade,Health Kit,2,Lluvioso,6,0,1
+26,Femenino,Cazador,2,5,31,9mm Pistol,Baseball Bat,Ninguno,8,Lluvioso,9,0,0
+32,Femenino,Cazador,6,5,42,Bow,Switchblade,Shiv,9,Lluvioso,1,1,0
+26,Femenino,Civil,3,8,89,Hunting Rifle,Ninguna,Ninguno,0,Seco,1,1,1
+37,Masculino,Militar,3,8,52,Flamethrower,Baseball Bat,Ninguno,8,Húmedo,8,0,0
+31,Masculino,Cazador,6,2,33,El Diablo,Lead Pipe,Smoke Bomb,7,Lluvioso,6,0,0
+31,Masculino,Militar,5,9,96,Flamethrower,Machete,Molotov Cocktail,7,Seco,9,0,0
+39,Femenino,Firefly,4,4,59,El Diablo,Ninguna,Shiv,6,Lluvioso,1,0,0
+20,Femenino,Civil,6,10,88,Shotgun,Ninguna,Health Kit,0,Seco,4,0,1
+21,Femenino,Civil,3,7,44,Flamethrower,Hatchet,Health Kit,2,Lluvioso,1,1,1
+25,Femenino,Civil,6,7,34,9mm Pistol,Machete,Molotov Cocktail,8,Lluvioso,0,0,0
+15,Femenino,Firefly,2,8,35,9mm Pistol,Lead Pipe,Shiv,8,Lluvioso,8,0,0
+32,Masculino,Civil,8,2,36,Revolver,Hatchet,Shiv,4,Húmedo,5,0,0
+32,Masculino,Civil,9,1,32,Bow,Baseball Bat,Nail Bomb,0,Seco,0,1,1
+43,Masculino,Civil,4,1,52,Shotgun,Switchblade,Nail Bomb,6,Lluvioso,4,1,0
+57,Masculino,Firefly,8,1,65,9mm Pistol,Baseball Bat,Health Kit,1,Seco,8,1,1
+47,Masculino,Civil,6,5,72,Revolver,Machete,Ninguno,4,Húmedo,2,1,1
+54,Femenino,Militar,3,3,32,Ninguna,Baseball Bat,Ninguno,1,Lluvioso,0,0,0
+53,Masculino,Civil,2,6,35,Shotgun,2x4,Shiv,10,Húmedo,7,0,0
+56,Femenino,Civil,1,3,34,9mm Pistol,2x4,Molotov Cocktail,9,Húmedo,8,1,0
+31,Femenino,Civil,2,9,62,Ninguna,Baseball Bat,Nail Bomb,0,Seco,2,0,1
+16,Femenino,Firefly,5,5,56,Shorty,Ninguna,Smoke Bomb,8,Lluvioso,6,1,0
+45,Femenino,Firefly,1,5,75,El Diablo,Baseball Bat,Ninguno,10,Seco,0,0,0
+26,Masculino,Firefly,3,3,73,Flamethrower,Switchblade,Shiv,5,Húmedo,1,0,0
+36,Femenino,Firefly,10,6,70,Bow,Switchblade,Smoke Bomb,4,Lluvioso,0,1,1
+55,Femenino,Firefly,7,4,41,Ninguna,Baseball Bat,Health Kit,5,Lluvioso,3,1,0
+37,Masculino,Cazador,3,7,43,9mm Pistol,Machete,Nail Bomb,6,Lluvioso,3,0,0
+55,Masculino,Firefly,5,10,48,Shotgun,2x4,Health Kit,0,Húmedo,2,1,1
+26,Masculino,Militar,9,6,82,9mm Pistol,Ninguna,Nail Bomb,10,Húmedo,6,1,0
+27,Masculino,Firefly,6,3,83,Shorty,Switchblade,Molotov Cocktail,4,Húmedo,8,1,1
+57,Femenino,Civil,10,5,47,Revolver,2x4,Nail Bomb,7,Húmedo,3,0,0
+33,Masculino,Firefly,8,5,31,Revolver,Ninguna,Nail Bomb,0,Lluvioso,2,0,0
+19,Femenino,Inmune,2,9,66,Ninguna,Lead Pipe,Molotov Cocktail,4,Lluvioso,2,1,1
+54,Femenino,Civil,10,4,55,Revolver,Hatchet,Nail Bomb,2,Húmedo,7,0,1
+58,Femenino,Cazador,5,1,57,Bow,Baseball Bat,Nail Bomb,8,Lluvioso,7,1,0
+58,Masculino,Firefly,10,5,90,Revolver,Baseball Bat,Ninguno,0,Seco,10,0,1
+54,Masculino,Firefly,1,5,51,Hunting Rifle,Machete,Molotov Cocktail,9,Lluvioso,2,1,0
+32,Femenino,Firefly,8,9,30,Hunting Rifle,2x4,Molotov Cocktail,1,Húmedo,8,1,1
+59,Masculino,Firefly,6,1,94,El Diablo,2x4,Ninguno,10,Lluvioso,6,1,0
+48,Femenino,Civil,3,8,45,9mm Pistol,Ninguna,Molotov Cocktail,8,Seco,2,0,0
+58,Masculino,Firefly,9,7,75,Shotgun,Machete,Smoke Bomb,7,Húmedo,1,0,0
+28,Femenino,Cazador,4,9,46,Revolver,Machete,Ninguno,8,Húmedo,4,1,0
+21,Masculino,Civil,6,5,59,El Diablo,Baseball Bat,Nail Bomb,3,Lluvioso,6,0,0
+30,Femenino,Militar,1,7,50,Shotgun,Lead Pipe,Nail Bomb,1,Húmedo,1,1,1
+45,Femenino,Cazador,5,1,68,Flamethrower,Baseball Bat,Nail Bomb,8,Lluvioso,8,0,0
+34,Femenino,Civil,9,1,68,Shotgun,Machete,Nail Bomb,3,Húmedo,4,1,1
+33,Femenino,Civil,5,9,68,Ninguna,Lead Pipe,Molotov Cocktail,10,Lluvioso,1,0,0
+21,Masculino,Militar,10,8,92,Flamethrower,Switchblade,Smoke Bomb,4,Húmedo,5,0,1
+46,Femenino,Militar,8,3,94,Revolver,Hatchet,Nail Bomb,6,Seco,10,1,0
+53,Femenino,Civil,6,8,92,Shotgun,2x4,Health Kit,3,Húmedo,9,0,1
+17,Femenino,Cazador,9,8,49,Revolver,Hatchet,Ninguno,7,Lluvioso,4,0,0
+25,Femenino,Firefly,5,10,38,El Diablo,Switchblade,Shiv,0,Húmedo,3,0,1
+48,Femenino,Firefly,5,2,94,Flamethrower,Lead Pipe,Smoke Bomb,1,Lluvioso,1,0,1
+20,Masculino,Cazador,10,7,57,El Diablo,Baseball Bat,Nail Bomb,2,Seco,6,0,1
+34,Masculino,Civil,9,2,64,9mm Pistol,Lead Pipe,Molotov Cocktail,8,Seco,10,1,0
+50,Masculino,Civil,1,5,48,Ninguna,Ninguna,Health Kit,6,Húmedo,2,1,0
+40,Femenino,Civil,4,5,89,Flamethrower,Switchblade,Nail Bomb,7,Seco,9,0,0
+51,Femenino,Civil,9,4,100,Bow,Lead Pipe,Health Kit,10,Seco,5,0,0
+28,Femenino,Firefly,10,9,62,9mm Pistol,2x4,Shiv,0,Seco,9,1,1
+50,Masculino,Militar,1,7,81,Flamethrower,2x4,Health Kit,5,Lluvioso,10,0,0
+19,Masculino,Militar,2,4,34,Bow,Lead Pipe,Smoke Bomb,3,Lluvioso,0,0,0
+32,Masculino,Civil,6,3,30,El Diablo,Ninguna,Ninguno,3,Húmedo,10,1,0
+16,Femenino,Cazador,10,7,82,Ninguna,Baseball Bat,Nail Bomb,7,Seco,10,1,0
+26,Femenino,Civil,4,7,42,9mm Pistol,Baseball Bat,Nail Bomb,6,Lluvioso,5,0,0
+53,Femenino,Militar,9,3,57,Revolver,Ninguna,Smoke Bomb,2,Húmedo,3,1,1
+45,Masculino,Cazador,9,5,55,Bow,Ninguna,Smoke Bomb,5,Seco,0,0,0
+54,Femenino,Civil,10,5,90,Flamethrower,Baseball Bat,Shiv,9,Lluvioso,3,1,0
+59,Femenino,Militar,5,5,71,Hunting Rifle,2x4,Shiv,9,Húmedo,8,1,0
+35,Femenino,Militar,3,4,38,Hunting Rifle,2x4,Smoke Bomb,8,Lluvioso,0,0,0
+54,Masculino,Firefly,10,8,78,Shotgun,Baseball Bat,Molotov Cocktail,4,Húmedo,5,0,1
+51,Femenino,Civil,6,1,95,Flamethrower,Ninguna,Health Kit,8,Lluvioso,0,1,0
+54,Masculino,Firefly,9,5,54,Revolver,2x4,Ninguno,3,Lluvioso,6,0,0
+21,Femenino,Firefly,7,4,33,Shorty,Switchblade,Shiv,1,Húmedo,2,1,1
+18,Masculino,Civil,9,1,55,Shotgun,2x4,Shiv,6,Seco,5,0,0
+25,Femenino,Civil,4,2,84,Hunting Rifle,2x4,Health Kit,10,Lluvioso,1,0,0
+22,Femenino,Civil,8,1,66,Ninguna,Lead Pipe,Health Kit,10,Seco,8,0,0
+45,Femenino,Militar,4,10,35,Bow,Ninguna,Health Kit,4,Seco,7,1,0
+56,Masculino,Civil,9,7,93,Flamethrower,2x4,Health Kit,0,Lluvioso,2,0,1
+31,Masculino,Firefly,10,1,90,Ninguna,2x4,Smoke Bomb,0,Lluvioso,6,1,1
+21,Masculino,Civil,2,5,83,Hunting Rifle,Hatchet,Health Kit,4,Húmedo,1,1,1
+52,Femenino,Inmune,7,8,35,Shotgun,Switchblade,Health Kit,9,Lluvioso,6,0,0
+19,Femenino,Civil,1,5,41,El Diablo,Lead Pipe,Nail Bomb,7,Seco,7,0,0
+55,Femenino,Cazador,8,7,43,Bow,Lead Pipe,Molotov Cocktail,4,Húmedo,1,1,1
+36,Masculino,Cazador,5,1,94,El Diablo,Hatchet,Shiv,10,Húmedo,10,1,0
+42,Femenino,Civil,3,2,45,El Diablo,Baseball Bat,Shiv,4,Húmedo,2,0,0
+30,Femenino,Firefly,10,3,97,Revolver,Machete,Ninguno,2,Lluvioso,7,1,1
+40,Masculino,Militar,1,6,47,El Diablo,Lead Pipe,Ninguno,5,Húmedo,0,1,0
+39,Masculino,Cazador,4,7,74,Revolver,Lead Pipe,Smoke Bomb,5,Húmedo,5,0,1
+43,Masculino,Firefly,6,6,36,Hunting Rifle,Switchblade,Nail Bomb,6,Lluvioso,1,1,0
+52,Femenino,Firefly,7,5,54,Ninguna,Ninguna,Nail Bomb,3,Húmedo,3,0,0
+30,Masculino,Civil,5,7,94,Shotgun,Ninguna,Molotov Cocktail,0,Húmedo,2,0,1
+20,Femenino,Militar,3,5,69,El Diablo,Switchblade,Ninguno,10,Húmedo,4,0,0
+52,Masculino,Cazador,4,6,83,Shotgun,Machete,Nail Bomb,8,Seco,2,0,0
+37,Femenino,Civil,3,7,48,Bow,Ninguna,Nail Bomb,8,Húmedo,5,0,0
+28,Masculino,Civil,8,10,36,El Diablo,Baseball Bat,Health Kit,0,Húmedo,9,0,1
+39,Masculino,Firefly,10,9,38,Bow,Hatchet,Health Kit,10,Húmedo,3,1,0
+23,Femenino,Civil,9,7,30,Revolver,Ninguna,Molotov Cocktail,1,Lluvioso,6,1,1
+18,Femenino,Inmune,4,2,73,Shorty,Baseball Bat,Smoke Bomb,3,Lluvioso,5,1,1
+40,Masculino,Cazador,3,3,80,Flamethrower,Switchblade,Smoke Bomb,0,Lluvioso,3,1,1
+21,Masculino,Cazador,6,3,81,Revolver,Hatchet,Smoke Bomb,10,Lluvioso,7,1,0
+16,Masculino,Firefly,5,6,40,Bow,Baseball Bat,Shiv,9,Seco,1,0,0
+35,Masculino,Civil,9,5,48,Revolver,Ninguna,Smoke Bomb,2,Lluvioso,0,0,1
+38,Masculino,Cazador,6,10,72,Ninguna,Switchblade,Nail Bomb,2,Húmedo,10,1,1
+44,Femenino,Civil,4,10,45,Bow,2x4,Smoke Bomb,10,Húmedo,5,1,0
+16,Femenino,Firefly,8,7,94,Bow,Ninguna,Smoke Bomb,6,Lluvioso,5,1,0
+54,Masculino,Firefly,4,4,51,Shorty,Baseball Bat,Molotov Cocktail,5,Lluvioso,10,0,0
+51,Femenino,Firefly,6,5,50,Flamethrower,Baseball Bat,Ninguno,4,Lluvioso,1,1,1
+24,Masculino,Civil,9,1,92,Revolver,Machete,Shiv,5,Seco,4,0,1
+49,Masculino,Civil,4,1,91,El Diablo,Lead Pipe,Nail Bomb,6,Lluvioso,0,0,0
+34,Masculino,Firefly,8,9,57,Revolver,2x4,Molotov Cocktail,0,Húmedo,1,0,1
+54,Masculino,Inmune,9,5,97,Bow,Baseball Bat,Nail Bomb,5,Lluvioso,8,1,1
+50,Masculino,Cazador,10,5,33,Bow,Switchblade,Shiv,7,Lluvioso,6,1,0
+58,Masculino,Firefly,7,8,35,Bow,Ninguna,Health Kit,10,Lluvioso,10,1,0
+20,Masculino,Firefly,1,5,32,Flamethrower,Lead Pipe,Ninguno,9,Seco,4,0,0
+53,Femenino,Civil,7,8,34,9mm Pistol,Baseball Bat,Molotov Cocktail,3,Lluvioso,9,0,0
+26,Masculino,Cazador,9,1,70,Hunting Rifle,Ninguna,Shiv,3,Seco,2,1,1
+45,Femenino,Cazador,9,8,31,Hunting Rifle,Lead Pipe,Shiv,7,Húmedo,4,0,0
+57,Femenino,Cazador,6,8,39,Shotgun,Machete,Shiv,4,Seco,5,0,0
+30,Masculino,Cazador,1,7,74,Ninguna,2x4,Smoke Bomb,3,Seco,10,1,0
+18,Masculino,Civil,6,2,52,Ninguna,Baseball Bat,Ninguno,6,Seco,10,1,0
+40,Masculino,Militar,4,7,63,Flamethrower,Lead Pipe,Nail Bomb,2,Lluvioso,7,1,1
+27,Masculino,Civil,3,4,45,Shorty,Hatchet,Health Kit,10,Húmedo,4,0,0
+42,Masculino,Militar,6,7,73,Shorty,Machete,Ninguno,8,Húmedo,0,0,0
+32,Masculino,Civil,4,9,59,El Diablo,Baseball Bat,Ninguno,2,Lluvioso,5,1,1
+45,Femenino,Firefly,8,9,78,Shotgun,Lead Pipe,Nail Bomb,2,Seco,7,0,1
+39,Masculino,Militar,1,3,30,Shotgun,Lead Pipe,Shiv,7,Húmedo,10,1,0
+25,Masculino,Firefly,1,8,32,Shotgun,Lead Pipe,Ninguno,2,Húmedo,2,1,1
+58,Femenino,Civil,3,6,65,Ninguna,Hatchet,Molotov Cocktail,6,Húmedo,5,0,0
+48,Masculino,Cazador,1,3,98,9mm Pistol,2x4,Health Kit,1,Lluvioso,6,0,1
+37,Masculino,Cazador,2,2,49,Shorty,Baseball Bat,Molotov Cocktail,10,Húmedo,5,0,0
+19,Femenino,Civil,4,2,64,Ninguna,Ninguna,Smoke Bomb,7,Húmedo,4,0,0
+46,Femenino,Firefly,3,2,66,Ninguna,Lead Pipe,Shiv,2,Húmedo,1,0,0
+21,Masculino,Militar,6,1,33,Revolver,2x4,Health Kit,8,Lluvioso,4,1,0
+33,Masculino,Cazador,4,10,66,El Diablo,Baseball Bat,Molotov Cocktail,0,Lluvioso,7,1,1
+29,Femenino,Civil,9,7,92,El Diablo,Lead Pipe,Health Kit,2,Seco,6,0,1
